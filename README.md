@@ -1,6 +1,6 @@
 # Splendor
 
-* 게임 소개 영상 : 
+* 게임 소개 영상 : https://www.youtube.com/watch?v=682cO_W-Rt0
 
 * 작성자 : 양희원
 
