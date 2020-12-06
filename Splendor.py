@@ -734,6 +734,7 @@ def updateScore():
     if turn == Turn.PLAYER2:
         p_score = p1_score
         e_score = p2_score
+        e2_score = ai_score
         player = player1
         if checking_yours == False:
             p_score = p2_score
